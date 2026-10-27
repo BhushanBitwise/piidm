@@ -1,0 +1,32 @@
+{
+  "student_life": {
+    "Samay Raina At PIIDM": "/images/student-life/samay_raina_at_piidm.webp",
+    "PPL 2025 Winner": "/images/student-life/ppl_2025_winner.webp",
+    "PIIDM Student Photo": "/images/student-life/piidm_student_photo.webp",
+    "PIIDM Student Farewell": "/images/student-life/piidm_student_farewell.webp",
+    "PIIDM Student Dance": "/images/student-life/piidm_student_dance.webp",
+    "PIIDM PPL Cricket": "/images/student-life/piidm_ppl_cricket.webp",
+    "PIIDM Cricket League PPL": "/images/student-life/piidm_cricket_league_ppl.webp",
+    "PIIDM Convocation 2024": "/images/student-life/piidm_convocation_2024.webp",
+    "PIIDM Convocation 2023": "/images/student-life/piidm_convocation_2023.webp",
+    "Team Dhun Performance At PIIDM": "/images/student-life/team_dhun_performance_at_piidm.webp"
+  },
+  "companies": {
+    "Kumar Properties": "/images/companies/kumar_properties.webp",
+    "Futurism": "/images/companies/futurism.webp",
+    "GOMO": "/images/companies/gomo.webp",
+    "Kolte Patil Construction": "/images/companies/kolte_patil_construction.webp",
+    "BrandLoom": "/images/companies/brandloom.webp",
+    "Infosys": "/images/companies/infosys.webp",
+    "Dunzo": "/images/companies/dunzo.webp",
+    "Globant": "/images/companies/globant.webp",
+    "E-Zest": "/images/companies/e-zest.webp",
+    "Flipkart": "/images/companies/flipkart.webp",
+    "Merkle": "/images/companies/merkle.webp",
+    "Wipro": "/images/companies/wipro.webp",
+    "Affinity": "/images/companies/affinity.webp",
+    "Testrig": "/images/companies/testrig.webp",
+    "Bright Pixel": "/images/companies/bright_pixel.webp",
+    "Amura": "/images/companies/amura.webp"
+  }
+}
